@@ -1,6 +1,7 @@
 # 🧠 Advanced Emotion & Depression Analysis 
+## [WEBSITE LINK](https://emotion-depression-analysis.onrender.com/)
 
-[![Project Status](https://img.shields.io/badge/status-in--development-blue)](https://github.com/yourusername/emotion-depression-analysis)
+[![Project Status](https://img.shields.io/badge/status-in--development-blue)](https://github.com/ariktheone/emotion-depression-analysis)
 [![Python](https://img.shields.io/badge/python-3.7%2B-brightgreen)](https://www.python.org/)
 
 [![Contributions](https://img.shields.io/badge/contributions-welcome-purple)](CONTRIBUTING.md)
